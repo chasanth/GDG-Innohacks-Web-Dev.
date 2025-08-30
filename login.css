@@ -1,0 +1,111 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9; /* Light grey background */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+  }
+  
+  /* Login Container Styling */
+  .login-container {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    width: 300px; /* Fixed width */
+    text-align: center;
+  }
+  
+  /* Title Styling */
+  .login-container h2 {
+    margin-bottom: 1.5rem;
+    color: #333; /* Dark grey */
+  }
+  
+  /* Label Styling */
+  .login-container label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #555; /* Medium grey */
+  }
+  
+  /* Input Fields Styling */
+  .login-container input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd; /* Light grey border */
+    border-radius: 5px;
+    font-size: 1rem;
+    background-color: #f9f9f9; /* Subtle light background */
+  }
+  
+  /* Regular Login Button Styling */
+  .login-container button {
+    width: 100%;
+    padding: 0.7rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #3D5A80; /* Slate blue */
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  /* Regular Button Hover Effect */
+  .login-container button:hover {
+    background-color: #EE6C4D; /* Burnt orange */
+  }
+  
+  /* Separator Styling */
+  .separator {
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+    color: #aaa; /* Grey for separator */
+  }
+  
+  /* Google Sign-In Button Styling */
+  .google-signin-btn {
+    background-color: #4285F4; /* Google Blue */
+    color: white;
+    border: none;
+    padding: 0.7rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem; /* Space for future Google icon */
+    transition: background-color 0.3s;
+  }
+  
+  /* Google Button Hover Effect */
+  .google-signin-btn:hover {
+    background-color: #357ae8; /* Darker Google Blue */
+  }
+  
+  /* Register Link Styling */
+  .login-container .register-link {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .login-container .register-link a {
+    color: #3D5A80; /* Slate blue */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .login-container .register-link a:hover {
+    color: #EE6C4D; /* Burnt orange on hover */
+  }
+  
