@@ -37,9 +37,7 @@ fashion, with the most relevant opportunities surfacing at the forefront.
   
   <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8f34313e-4304-4941-b80d-51fb5c40d8b5" />
   <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/93554b8f-3bcc-4b0a-8910-8b669d0429ab" />
- <h2>Contribution: </h2>
- <h3>Feel free to fork the repository, submit pull requests, or report issues. Your contributions are welcome!</h3>
-  <img width="1680" height="933" alt="Screenshot 2025-09-01 at 11 37 39 AM" src="https://github.com/user-attachments/assets/c9af0ede-249f-4745-833c-e8678f130a80" />
+
   <h2>Certificate Of Achievement :</h2>
   <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/a32a0194-772a-49d1-a0d2-86d88bafe484" />
 
@@ -70,18 +68,21 @@ fashion, with the most relevant opportunities surfacing at the forefront.
     </ul>
   <h2>Future Enhancements</h2>
 
-* ** Personalization & AI Integration:**
+* **Personalization & AI Integration:**
     * **AI-Powered Job Feed:** A dynamic "For You" feed that learns from user behavior to continuously refine job recommendations.
     * **Resume-to-Skills Parser:** Instantly parse uploaded resumes to suggest relevant skills for verification.
     * **Natural Language Search:** Implement a search bar that understands conversational queries.
-* ** Learning & Development Integration:**
+* **Learning & Development Integration:**
     * Recommend specific online courses or learning resources to candidates who fail an assessment.
     * Implement a "Career Path Simulator" to show users how acquiring new skills can unlock more senior roles.
-* ** Community & Networking Features:**
+* **Community & Networking Features:**
     * Introduce skill-based forums for users to connect and share knowledge.
     * Host virtual info sessions with recruiters directly on the platform.
+<h2>Contributions: </h2>
+ <h3>Feel free to fork the repository, submit pull requests, or report issues. Your contributions are welcome!</h3>
+  <img width="1680" height="933" alt="Screenshot 2025-09-01 at 11 37 39 AM" src="https://github.com/user-attachments/assets/c9af0ede-249f-4745-833c-e8678f130a80" />
+  <hr>
 
----
 
 
   
