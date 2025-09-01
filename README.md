@@ -1,4 +1,4 @@
-# Job-Portal
+# Job-Portal- Discover Your Path
 In an era where job seekers are inundated with an overwhelming number of listings—many
 of which do not align with their expertise—a groundbreaking hiring platform is introducing an
 innovative mechanism that<b> restricts access to job opportunities</b> unless candidates can
@@ -35,8 +35,9 @@ fashion, with the most relevant opportunities surfacing at the forefront.
   ● K. Charith</b><br>
   <img width="3072" height="4096" alt="image" src="https://github.com/user-attachments/assets/8f34313e-4304-4941-b80d-51fb5c40d8b5" />
   <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/93554b8f-3bcc-4b0a-8910-8b669d0429ab" />
-  <img width="926" height="1280" alt="image" src="https://github.com/user-attachments/assets/a32a0194-772a-49d1-a0d2-86d88bafe484" />
+ 
   <img width="1680" height="933" alt="Screenshot 2025-09-01 at 11 37 39 AM" src="https://github.com/user-attachments/assets/c9af0ede-249f-4745-833c-e8678f130a80" />
+  <img width="926" height="1280" alt="image" src="https://github.com/user-attachments/assets/a32a0194-772a-49d1-a0d2-86d88bafe484" />
 
  <h2> Key Features</h2>
 
