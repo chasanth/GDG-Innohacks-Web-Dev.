@@ -28,7 +28,7 @@ greater with the user's skill set should be prominently marked as a "Top Match.
 fashion, with the most relevant opportunities surfacing at the forefront.
 <hr>
 <h2>Project Developed by:</h2><br>
- ●<b> S.L Keshavanada 
+ ●<b> S.L Kesavanada 
     <br>
   ● T. Chasanth Reddy</h3>
     <br>
